@@ -7,4 +7,4 @@
 
 ### object-detection
 - You Only Look Once: Unified, Real-Time Object Detection
-  - [lecture](https://blog.naver.com/rbdus0715/222896334208) | [practice]()
+  - [lecture](https://blog.naver.com/rbdus0715/222896334208) | [practice](https://github.com/rbdus0715/deep-learning-paper-reading-and-code-implement-and-Improving/tree/main/code-practice/yolo-torch)
