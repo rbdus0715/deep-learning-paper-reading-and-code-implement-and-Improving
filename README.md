@@ -4,3 +4,7 @@
 ### image
 - ImageNet Classification with Deep Convolutional Neural Networks
   - [lecture](https://blog.naver.com/rbdus0715/222881858017) | [practice](https://github.com/rbdus0715/deep-learning-paper-reading-and-code-implement-and-Improving/blob/main/code-practice/AlexNet.ipynb)
+
+### object-detection
+- You Only Look Once: Unified, Real-Time Object Detection
+  - [lecture](https://blog.naver.com/rbdus0715/222896334208) | [practice]()
